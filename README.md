@@ -28,7 +28,7 @@ This is a quiz application where users can answer multiple-choice questions and 
 
 ![Quiz App Demo](quiz_app_demo.gif)
 
-You can try the live demo [here](https://your-demo-link.com).
+You can try the live demo [here](https://pradeep23122003.github.io/Quiz_App/).
 
 ## Technologies Used
 
